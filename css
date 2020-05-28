@@ -1,0 +1,8 @@
+@media screen and (max-width: 991px) {
+    .navbar-nav .nav-link {
+        border-bottom: 1px solid silver;
+    }
+    .navbar-nav .nav-link:last-child {
+        border-bottom: none;
+    }
+}
